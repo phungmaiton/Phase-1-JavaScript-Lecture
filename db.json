@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Anne of Green Gables",
+      "author": "L. M. Montgomery",
+      "image": "https://m.media-amazon.com/images/I/71rtzg36RAL._AC_UF1000,1000_QL80_.jpg",
+      "pages": 320
+    },
+    {
+      "id": 2,
+      "title": "Battle Royale",
+      "author": "Koshun Takami",
+      "image": "https://m.media-amazon.com/images/I/71deVIyvWsL._AC_UF1000,1000_QL80_.jpg",
+      "pages": 666
+    },
+    {
+      "id": 3,
+      "title": "The Little Stranger",
+      "author": "Sarah Waters",
+      "image": "https://www.bing.com/th?id=OIP.ufuL48B2ZmyX_0C0Dh1AlwHaLj&w=150&h=234&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2",
+      "pages": 512
+    },
+    {
+      "id": 4,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes Saavedra",
+      "image": "https://www.bing.com/th?id=OIP.4VKO7ya_nvFTw6rG1vxmtQHaJ7&w=150&h=202&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2",
+      "pages": 1023
+    },
+    {
+      "id": 5,
+      "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+      "author": "John Carreyrou",
+      "image": "https://www.bing.com/th?id=OIP.olLSOHLujMbzrZMn-3XGfwHaLL&w=150&h=227&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2",
+      "pages": 339
+    },
+    {
+      "id": 8,
+      "title": "Twilight",
+      "author": "Stephanie Meyer",
+      "image": "",
+      "pages": 400
+    },
+    {
+      "id": 200,
+      "title": "Love for Imperfect Things",
+      "author": "Haemin",
+      "image": "test",
+      "pages": 200
+    }
+  ]
+}
